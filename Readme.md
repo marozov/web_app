@@ -28,17 +28,17 @@ vagrant стэнд с проброшенными на локалхост пор�
 
 1. GO
 
-![Image 1](https://raw.githubusercontent.com/marozov/web_app/master/screenshots/go.png) 
+![Image 1](https://github.com/marozov/web_app/blob/main/screenshots/go.png) 
 
 --------
 2. React
 
-![Image 2](https://raw.githubusercontent.com/marozov/web_app/master/screenshots/react.png) 
+![Image 2](https://github.com/marozov/web_app/blob/main/screenshots/react.png) 
 
 --------
 3. Django
 
-![Image 3](https://raw.githubusercontent.com/marozov/web_app/master/screenshots/django.png) 
+![Image 3](https://github.com/marozov/web_app/blob/main/screenshots/django.png) 
 
 ## Как запустить:
  - ```git clone git@github.com:marozov/web_app.git && cd web_app && vagrant up```
